@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ection about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# `Building Movie.UI`
+# `Building Dicom-Viewer.UI`
 
 Get the project's build using Makefile.
 
@@ -21,7 +21,7 @@ Then, bring up the container.
 make run-dev
 ```
 
-Movie.UI will be accessible at `http://localhost:3000`.
+Dicom-Viewer.UI will be accessible at `http://localhost:3000`.
 
 
 # `GitHub Actions`
